@@ -1,0 +1,5 @@
+If you use the Includes snippet with Evo,
+
+You can test the functions by creating 2 pages w/ the snippets:
+1. Create: [[Includes? &file=`path/to/resource.save.new.php` ]]
+2. Edit:  [[Includes? &file=`path/to/resource.save.edit.php` ]]
